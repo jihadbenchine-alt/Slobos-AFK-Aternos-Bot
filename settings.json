@@ -1,12 +1,12 @@
 {
-  "name": "AFK Bot",
+  "name": "THE WARRIORS bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "THE WARRIORS BOT SYSTÈME",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "TheWarriors-g8TN.aternos.me",
+    "ip": "TheWarriors097.aternos.me",
     "port": 39235,
     "version": "",
     "try-creative": false
@@ -31,9 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "§4§4§lThe🪓server open 24h and welcome in thé warriors serv 🔥. §3§k§oYtehhsaov . §5§o§lthe friend is here⛏"
       ]
     },
     "chat-log": true,
